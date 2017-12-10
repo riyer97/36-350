@@ -1,0 +1,6 @@
+cat("Hello Dear Aliens,\n")
+cat("You are talking to a human. We enjoy being with other humans, and try to make the place we live in as nice as possible.")
+cat("How are you guys? Where do you come from? What do you like?\n") 
+cat("There is this class called 36-350 at a school called Carnegie Mellon University that is amazing. You guys should take it for sure if you can.\n")
+cat("Well thats all the time I have.\n")
+cat("Goodbye.")
